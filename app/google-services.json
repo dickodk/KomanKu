@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322819815723",
+    "project_id": "komanku-9e1ed",
+    "storage_bucket": "komanku-9e1ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322819815723:android:c7b37bd718ee8a20c42d6e",
+        "android_client_info": {
+          "package_name": "slev.if5a.komanku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322819815723-tavt7m87lmospv05pegf55am9vqqaolt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWxI2h4U62mn4YU1Bf-IeUNMzFzMTNA60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322819815723-tavt7m87lmospv05pegf55am9vqqaolt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
